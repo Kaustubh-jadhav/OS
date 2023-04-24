@@ -29,6 +29,7 @@ int main(){
     {
         scanf("%d",&av[i]);
     }
+    printf("Now, Displaying the Allocation mAtrix");
     
     printf("\n Allocation");
     for(i=0;i<n;i++)
